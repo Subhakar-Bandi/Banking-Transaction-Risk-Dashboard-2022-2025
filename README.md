@@ -53,15 +53,15 @@ The dashboard contains three interactive pages:
 
 ### 1. Banking Transaction Overview
 
-![Banking Transaction Overview](screenshots/Banking_Transaction_Overview.png)
+![Banking Transaction Overview](Banking_Transaction_Overview.png)
 
 ### 2. Fraud & Risk Analysis
 
-![Fraud Risk Analysis](screenshots/Fraud_Risk_Analysis.png)
+![Fraud Risk Analysis](Fraud_Risk_Analysis.png)
 
 ### 3. Customer & Compliance Analysis
 
-![Customer Compliance Analysis](screenshots/Customer_Compliance_Analysis.png)
+![Customer Compliance Analysis](Customer_Compliance_Analysis.png)
 
 ## 💡 Business Insights
 
