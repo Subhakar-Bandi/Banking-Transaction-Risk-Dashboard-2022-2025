@@ -75,6 +75,6 @@ The dashboard contains three interactive pages:
 
 ## 👨‍💻 Author
 
-**Subhankar**
+**Subhakar**
 
 Aspiring Data Analyst | Power BI | Data Visualization | Business Intelligence
